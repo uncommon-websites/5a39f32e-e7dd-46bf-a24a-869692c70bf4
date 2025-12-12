@@ -1,24 +1,24 @@
 <script lang="ts">
   const stats = [
     {
-      label: "30+ People",
-      desc: "You're a small, but mighty team of curious problem-solvers and explorers. With a versatile, Swiss-knife mentality, we thrive on tackling diverse challenges. Our core team is tight-knit, yet we seamlessly tap into a wider network of experts when needed. Here, theory meets practice, and together, we get things done.",
-      img: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=200"
+      label: "11 Years in VC",
+      desc: "Over a decade working in venture capital, evaluating hundreds of pitch decks and understanding what makes investors say yes. This insider perspective informs every deck I create, ensuring your narrative resonates with the people who matter most.",
+      img: "/generated/image-experienced-venture-capitalist-reviewing-1765565372787-4.webp"
     },
     {
-      label: "14+ Awards",
-      desc: "Our work speaks for itself—recognized internationally, we've already earned some awards. These accolades reflect the passion and innovation we pour into every project, pushing boundaries and delivering results that make an impact.",
-      img: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=200"
+      label: "$100M+ Raised",
+      desc: "Clients have collectively raised hundreds of millions of dollars across pre-seed, seed, and Series A rounds. From fintech to healthtech to climate tech, proven track record of helping founders secure the funding they need to scale.",
+      img: "/generated/image-young-diverse-startup-team-celebrating-f-1765565370493-3.webp"
     },
     {
-      label: "CGN, BLN, Remote",
-      desc: "Headquartered in Cologne, with an expanding team in Berlin, we also embrace remote work. Our colleagues span across cities like Barcelona, Stuttgart, Munich, and more, bringing a mix of perspectives and expertise to everything we do. Whether in the office or working remotely, we stay connected and collaborative.",
-      img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=200"
+      label: "Hundreds of Decks",
+      desc: "Worked on hundreds of pitch decks throughout my career, from early-stage concepts to growth-stage refinements. Each project deepens my understanding of what works—and what doesn't—when it comes to fundraising narratives.",
+      img: "/generated/image-stack-of-pitch-deck-slides-and-business--1765565382059-8.webp"
     },
     {
-      label: "B-Corp",
-      desc: "We've officially joined the ranks of B-Corp certified companies. This means we meet the highest standards of social and environmental performance, accountability, and transparency. We're proud to use business as a force for good, ensuring our impact extends beyond just profit.",
-      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/B_Corp_Logo.svg/1200px-B_Corp_Logo.svg.png" // Placeholder
+      label: "Pre-Seed to Series A",
+      desc: "Specializing in the critical early stages of fundraising when narrative and positioning matter most. Whether you're raising your first $500K or your Series A, I help you craft the story that gets you to the next milestone.",
+      img: "/generated/image-confident-startup-founder-presenting-pit-1765565362958-0.webp"
     }
   ];
 </script>
@@ -26,7 +26,7 @@
 <section class="py-24 px-6 md:px-12 bg-white border-t border-gray-100">
   <div class="mb-16">
     <p class="text-gray-500 max-w-xl">
-      Curious about who we are? Here's a snapshot of the team, our achievements, and the milestones we're proud of.
+      Numbers tell part of the story. Here's what sets Pitch Partners apart in the crowded world of pitch deck consulting.
     </p>
   </div>
 

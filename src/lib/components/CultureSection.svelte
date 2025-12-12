@@ -1,19 +1,19 @@
 <script lang="ts">
   const cards = [
     {
-      title: "We're Not Just a Vendor...",
-      subtitle: "We're Your Partner In Crime.",
-      image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800"
+      title: "11 Years in Venture Capital",
+      subtitle: "Insider Knowledge of What Investors Want",
+      image: "/generated/image-experienced-venture-capitalist-reviewing-1765565372787-4.webp"
     },
     {
-      title: "We Don't Just Follow Trends...",
-      subtitle: "We Shape New Territories.",
-      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=800"
+      title: "Battle-Tested Narrative Design",
+      subtitle: "Hundreds of Decks, Proven Frameworks",
+      image: "/generated/image-close-up-of-hands-sketching-narrative-fl-1765565375194-5.webp"
     },
     {
-      title: "We Don't Play By The Book...",
-      subtitle: "We Write It Together.",
-      image: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800"
+      title: "$100M+ Raised by Clients",
+      subtitle: "From Pre-Seed to Series A Success",
+      image: "/generated/image-startup-founder-and-investor-shaking-han-1765565377498-6.webp"
     }
   ];
 </script>
@@ -21,7 +21,7 @@
 <section class="py-24 px-6 md:px-12 bg-white">
   <div class="max-w-2xl mb-16">
     <p class="text-xl md:text-2xl leading-relaxed text-gray-800">
-      Collaboration isn't just a buzzword—it's how we roll. We're not here to hand off some cookie-cutter deliverable and disappear; we're in it with you, from day one.
+      Most pitch deck consultants have never sat on the other side of the table. I have. With 11 years in venture capital, I know exactly what makes investors say yes—and what makes them pass.
     </p>
   </div>
 

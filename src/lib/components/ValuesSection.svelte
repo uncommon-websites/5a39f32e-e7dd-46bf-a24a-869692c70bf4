@@ -1,28 +1,28 @@
 <script lang="ts">
   const photos = [
     {
-      title: "Fitness Meets Work",
-      desc: "Stay healthy with our dedicated gym and personal training part of our employee wellness program.",
-      img: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=400"
+      title: "Hands-On Collaboration",
+      desc: "Every deck is a partnership. I work directly with founders to understand their vision and translate it into compelling narratives that investors can't ignore.",
+      img: "/generated/image-one-on-one-consultation-session-between--1765565384417-9.webp"
     },
     {
-      title: "Your Social Hub",
-      desc: "Located in vibrant city centers, our offices are places for connection and face-to-face collaboration.",
-      img: "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?auto=format&fit=crop&q=80&w=400"
+      title: "Iterative Refinement",
+      desc: "Great decks aren't built in a day. Through multiple rounds of feedback and refinement, we polish every slide until your story shines.",
+      img: "/generated/image-laptop-screen-showing-pitch-deck-being-r-1765565386715-10.webp"
     },
     {
-      title: "Fueling Creativity",
-      desc: "We care about good food—our in-house chef ensures everyone stays energized and inspired.",
-      img: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&q=80&w=400"
+      title: "Investor-Ready Results",
+      desc: "The goal isn't just a pretty deck—it's a fundraising tool that opens doors, starts conversations, and closes rounds.",
+      img: "/generated/image-stack-of-pitch-deck-slides-and-business--1765565382059-8.webp"
     }
   ];
 </script>
 
 <section class="py-24 px-6 md:px-12 bg-white">
   <div class="max-w-xl mb-16">
-    <h3 class="text-lg font-bold mb-2">We focus on people, not just projects.</h3>
+    <h3 class="text-lg font-bold mb-2">How we work together.</h3>
     <p class="text-gray-500 text-sm leading-relaxed">
-      In a world of digital meetings, we value face-to-face connections. Our culture is built on trust, freedom, and support, fostering personal growth and collaboration that goes beyond just completing tasks—it's about enjoying the journey together.
+      Creating a winning pitch deck is a collaborative process. From initial consultation to final delivery, I'm with you every step of the way, bringing VC expertise and narrative design skills to transform your vision into investor-ready reality.
     </p>
   </div>
 
